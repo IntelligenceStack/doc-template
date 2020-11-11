@@ -1,0 +1,6 @@
+site_name: 帮助文档
+nav:
+    - 简介: index.md
+    - 关于: about.md
+theme:
+  name: material
